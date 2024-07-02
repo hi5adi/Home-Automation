@@ -1,0 +1,1 @@
+package com.hi5adii.demos;public interface Utilizable{    public void turnOn();    public void turnOff();    boolean isOn();}
